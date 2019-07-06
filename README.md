@@ -1,4 +1,4 @@
-# NBA-Summer-League
+# nba-summer-league
 NBA Summer League Game Scraper
 
 	
